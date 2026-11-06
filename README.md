@@ -1,8 +1,8 @@
 # Expense Tracker 💰
- click my link https://subhashree-ui.github.io/Expenses-Tracker/Expense%20tracker.html
-
 
 A simple and user-friendly Expense Tracker built using **HTML, CSS, and JavaScript**.
+## 🔗 Live Demo
+[Click here to try it out]( https://subhashree-ui.github.io/Expenses-Tracker/Expense%20tracker.html)
 
 This project helps users manage their daily expenses by adding and deleting transactions while automatically calculating the total expenses.
 
